@@ -1,3 +1,7 @@
+#Heading
 tec445---spring21---1
-- bullet 
+- bullet
+**Bold**
+*Italics*
+~~Strikethrough~~ 
 
