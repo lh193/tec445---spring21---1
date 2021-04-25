@@ -1,0 +1,6 @@
+!*
+**/.vscode-server/bin/
+**/.vscode-server/data/
+**/.vscode-server/extensionData/
+**/.vscode-server/extensionsCache/
+**/.vscode-server/extensions/
